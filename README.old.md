@@ -1,2 +1,0 @@
-# covidTracker
-React frontend
